@@ -23,7 +23,7 @@ AK-2150 是这一决策的直接产物。它保留了 AK 系列标志性的长�
 |---|---|
 | `full_auto` | 全自动射击，按住连发 |
 | `random_jump` | 随机跳跃后坐力，枪口持续上抬 |
-| `wall_penetration` | 穿透薄掩体，伤害衰减 50% |
+
 
 ## 配件接口
 
@@ -52,4 +52,4 @@ AK-2150 是这一决策的直接产物。它保留了 AK 系列标志性的长�
 - **细节**: 长枪管、30发弧形弹匣、折叠枪托轮廓
 - **导出格式**: PNG，2的幂尺寸
 - **路径**: `assets/artvault/weapons/guns/AK2150_Naslednik.png`
-- **弹药图标**: `assets/artvault/weapons/ammo/ammo_rifle.png`（已有）
+- **弹药图标**: `assets/artvault/weapons/ammo/ammo_rifle.png`
